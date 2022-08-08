@@ -17,7 +17,7 @@ cd todolist-Skuberg
 ```
 
 ## Open Integrated Development Environment (IDE)
-open folder ics-restaurant in IDE
+open folder todolist-Skuberg in IDE
 
 ## Installation node_modules
 ```
